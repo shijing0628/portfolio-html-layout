@@ -2,7 +2,7 @@
   "name": "portfolio-html-layout",
   "version": "1.0.0",
   "description": "2021-2-19",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
